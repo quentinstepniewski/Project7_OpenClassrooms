@@ -7,7 +7,7 @@
 
 Create a supervised model to predict the potential default for credit reimbursement (with an imbalance dataset **>90% without default**)
 
-<p style="color:red;">**[Work in progress]**</p>
+**[Work in progress]**
 
 Dataset used : <a href='https://www.kaggle.com/c/home-credit-default-risk/data'>Data home-credit-default-risk</a>
 
