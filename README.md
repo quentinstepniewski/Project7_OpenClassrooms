@@ -14,9 +14,9 @@ Dataset used : <a href='https://www.kaggle.com/c/home-credit-default-risk/data'>
 ## Assessed Skills:
 
 * Create a dashboard representing the modeling of the imbalanced data solution
-* Write a methodology note to explain de modeling pattern
+* Write a methodology note to explain the modeling pattern
 * Present the modeling solution orally 
 * Deploy a model via an API online
-* Use a versionning software to insure model integration 
+* Use a versioning software to ensure model integration 
 
 
