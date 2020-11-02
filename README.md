@@ -5,7 +5,7 @@
 
 ## Project Description:
 
-Create a supervised model to predict the potential default for credit reimbursement with an imbalance dataset ( >90% without default)
+Create a supervised model to predict the potential default for credit reimbursement (with an imbalance dataset **>90% without default**)
 
 **[Work in progress]**
 
