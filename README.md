@@ -7,7 +7,16 @@
 
 Create a supervised model to predict the potential default for credit reimbursement (with an imbalance dataset **>90% without default**)
 
-**[Work in progress]**
+* Try different imbalance management methods: 
+  * Undersampling
+  * SMOTE
+  * Sample_Weights
+  * Threshold Proba update
+* Attempt with Bayesian Optimisation (not kept in final model, just done in studies purpose)
+* Use Fbeta Scoring metric (optimize both Recall and Precision with relative importance of Recall) 
+* Use SHAP for model interpretability 
+* Create a Dashboard with Streamlit
+* Create an API with Flash 
 
 Dataset used : <a href='https://www.kaggle.com/c/home-credit-default-risk/data'>Data home-credit-default-risk</a>
 
@@ -19,4 +28,7 @@ Dataset used : <a href='https://www.kaggle.com/c/home-credit-default-risk/data'>
 * Deploy a model via an API online
 * Use a versioning software to ensure model integration 
 
+## Dashboard Video : 
+
+[![Watch the video](https://img.youtube.com/vi/iVT3bVZei6M/maxresdefault.jpg)](https://youtu.be/iVT3bVZei6M)
 
