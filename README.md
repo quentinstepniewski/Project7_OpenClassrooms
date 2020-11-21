@@ -30,5 +30,5 @@ Dataset used : <a href='https://www.kaggle.com/c/home-credit-default-risk/data'>
 
 ## Dashboard Video : 
 
-[![Watch the video](https://img.youtube.com/vi/iVT3bVZei6M/maxresdefault.jpg)](https://youtu.be/iVT3bVZei6M)
+[![Watch the video](https://img.youtube.com/vi/iVT3bVZei6M/hqdefault.jpg)](https://youtu.be/iVT3bVZei6M)
 
