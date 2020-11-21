@@ -12,7 +12,7 @@ Create a supervised model to predict the potential default for credit reimbursem
   * SMOTE
   * Sample_Weights
   * Threshold Proba update
-* Attempt with Bayesian Optimisation (not kept in final model, just done in studies purpose)
+* Attempt with Bayesian Optimisation (not kept in final model, just done for studies purpose)
 * Use Fbeta Scoring metric (optimize both Recall and Precision with relative importance of Recall) 
 * Use SHAP for model interpretability 
 * Create a Dashboard with Streamlit
